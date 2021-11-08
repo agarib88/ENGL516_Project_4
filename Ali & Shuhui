@@ -1,0 +1,9 @@
+#open & read file
+with open('project_3_example_text_new.txt') as project_3_example_doc:
+    project_3_example_content = project_3_example_doc.read()
+print(project_3_example_content)
+
+#extract annotation 
+import re
+project_3_annotation = re.findall(r"\[\[.+?\]\]\(\(.+?\)\)", project_3_example_content)
+print(project_3_annotation)
