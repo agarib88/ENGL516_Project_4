@@ -1,10 +1,10 @@
-﻿[m2-S1A] Although problems of understanding have inspired a vast array of studies in linguistics, there is much less research on the instinctive pre-emptive and repair strategies which people use to avoid miscommunication. 
-[m2-S1A] Linguistic data are usually collected from relatively public contexts, leaving one of the most important dimensions of human life less explored: the private sphere. 
-[m3-S1] This article aims to fill this gap by examining both misunderstandings and the ways in which spouses in intercultural relationships achieve understanding. 
-[m3-S1] The subjects of this study rely on a common means of communication, a lingua franca, which in their case is English. 
-[m3-S1] Such couples are no longer marginal—increased travel, study abroad, immigration, and the Internet have expanded the chances of finding a spouse outside one’s immediate region. 
+Although problems of understanding have inspired a vast array of studies in linguistics, [[there is much less research]]  ((Indicating_a_gap)) on the instinctive pre-emptive and repair strategies which people use to avoid miscommunication. 
+Linguistic data are usually collected from relatively public contexts, leaving one of the most important dimensions of human life [[less explored]]((Indicating_a_gap)): the private sphere. 
+This article [[aims to]]((Announcing_present_research descriptively_and/or_purposively)) fill this gap by examining both misunderstandings and the ways in which spouses in intercultural relationships achieve understanding. 
+[[The subjects of this study rely on]] ((Announcing_present_research descriptively_and/or_purposively))a common means of communication, a lingua franca, which in their case is English. 
+Such couples are no longer marginal—increased travel, study abroad, immigration, and the Internet [[have expanded the chances of finding a spouse outside one’s immediate region]]((Announcing_present_research descriptively_and/or_purposively)). 
 [m3-S3] In Europe alone, out of over 3 million former Erasmus students, 33 per cent have a partner of a different nationality, and 27 per cent of all Erasmus students have met their long-term partner during their exchange programme. 
-[m3-S3] As ‘English dominates as the language that Europeans are most likely to be able to speak’, the common language of these partners is often English as a lingua franca.
+As ‘English dominates as the language that Europeans are most likely to be able to speak’, [[the common language of these partners is often English as a lingua franca]]((Definitional_clarifications)).
 　　　　
 　　　　[m1-S2] When speakers from different linguacultural backgrounds communicate, it is generally expected that misunderstandings will occur. 
 [m1-S2] Yet, research into ELF has found that its speakers demonstrate cooperativeness and willingness to accommodate to their interlocutors. 
