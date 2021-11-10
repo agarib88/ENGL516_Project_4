@@ -1,5 +1,11 @@
 # open a file 
-file = input('please input file as .txt: ')
+file = input("please input file as .txt: ")
+import os.path
+if os.path.exists(file):
+    print("it exists)
+else:
+    file = input("please name file that exists: ")
+        
 with open(file) as file_doc:
     file_content = file_doc.read()
 print(file_content)
