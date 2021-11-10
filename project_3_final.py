@@ -1,5 +1,5 @@
 # open a file 
-file = input('please input file as .txt')
+file = input('please input file as .txt: ')
 with open(file) as file_doc:
     file_content = file_doc.read()
 print(file_content)
