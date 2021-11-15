@@ -1,0 +1,5 @@
+The purpose of this program is to pull manually annotated chunks of text with tags using REGEX and Python coding. The tags are not specific. 
+The characters used for chunking text were brackets [[your text]] followed immediately by double parenthesis ((your tags)). 
+What is bracketed or in parenthesis is not relevant to the functioning of the program.
+The output are single lines with one annotation and tag.
+You need your annotated text file and program in the same folder or pathway.
